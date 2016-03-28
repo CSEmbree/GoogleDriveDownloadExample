@@ -1,0 +1,14 @@
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\bin\Debug\DriveGetTest.exe.config
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest.csprojResolveAssemblyReference.cache
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\MainWindow.g.cs
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\App.g.cs
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest_MarkupCompile.cache
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest_MarkupCompile.lref
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\bin\Debug\DriveGetTest.exe
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\bin\Debug\DriveGetTest.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\MainWindow.baml
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest.g.resources
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest.Properties.Resources.resources
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest.csproj.GenerateResource.Cache
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest.exe
+c:\users\cameron\documents\visual studio 2015\Projects\DriveGetTest\DriveGetTest\obj\Debug\DriveGetTest.pdb
